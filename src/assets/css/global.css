@@ -1,0 +1,14 @@
+/* 全局样式表 */
+html,
+body,
+#app {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: #757575;
+	min-width: 1366px;
+}
+
+.el-container {
+	height: 100%;
+}

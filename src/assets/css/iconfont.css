@@ -1,0 +1,24 @@
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_2195249_gq6eu1aq7nb.eot?t=1605615727775'); /* IE9 */
+  src: url('//at.alicdn.com/t/font_2195249_gq6eu1aq7nb.eot?t=1605615727775#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANEAAsAAAAABzQAAAL3AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCGIILATYCJAMMCwgABCAFhG0HOhtVBhHVmxPIfiTG4Da60xZNPHa4UVGWNb4Jnqo/8vX0LMFA5n1Td8HH1A+Azc1+DWMiFEtyHvRP35G0zHAhPw24nP5sC8wDymXMZWPSHBhgHFCge2AUZQEXSILeMHbVUnlItyGAJ7FkI42btu6MOxa8SAAZPWLYANwLHmxHpeCO4Nqw0yLrccHdrDBXgXXq+/KFQnEHg4uCV7Yf2mQw9d97vk/V+c58egsC7XIhwNwHCmQDFqRvY6Q7muSyUTx9kw0awRWLYJZKOg5KE5hcyR8eGATEFVzuDUA6yht478k0mTUV6p66XAFwhSUdgKlgUTAnKRru5R3pJrN8Vx49uTOsmxx6AHir7r1lAl22bD9+eKxfV71/v+vdu53NEO+jJxecSvM5cmL+8V5DtocP3Boa2vnevS4nsgZJt207Q4duvRw8OHhQF+nSWTprcXz/xQFnPaLnlAz9552O6dV1cs5CqpTK9CTvfyU0J9rjbKd+Jqmxl+k2a0ofIUqhTJq9RjeOzz+ZfjIfvhz78f+lNqb8TecJb/VEu/L9EzsWHdhf/8ONXYOHhA++1fDjoE93c+rGbtzQa/Cvvb8ODdkwrJb+ADhXdIHWV4WzVrT17/8NjwsKBvbzq/7nfrYAPHn0ahzUDSsFdwwM1v7sLgs4jl1aeuxV62mYJoopeTeeNYBnEMcBJwJ5Pt0R8kIhwb2gNWFwIwaKO8mkZbPhghfFcMWdevAki2b7vQhiIopYDyCTJQCCP+dg8KUOij/XSMs+gwuhfIMr/qLwpKsEnehFqrDNqZGgUfRgf9A4Hon69RRXXjG8eiN5vRI/UeYmCXmSlYs1jihLrJnfoVAlIOEBKnAf9j3DJNyi0ySqTmWaUtOTEsfD4rRoJGgUPdgfNI5HEqP1VPn8FcOrN9Ix0Fd8oszN5JAn2QCytoyDBh7lkfkdClUCEh6gAiHsSY5hap7WotMkTshMZYqG0VBLsr1t+L9jgOcCX65LIyoWN+Ux/GOzG4VqxrBYAAA=') format('woff2'),
+  url('//at.alicdn.com/t/font_2195249_gq6eu1aq7nb.woff?t=1605615727775') format('woff'),
+  url('//at.alicdn.com/t/font_2195249_gq6eu1aq7nb.ttf?t=1605615727775') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('//at.alicdn.com/t/font_2195249_gq6eu1aq7nb.svg?t=1605615727775#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tongzhi:before {
+  content: "\e626";
+}
+
+.icon-ketang:before {
+  content: "\e60a";
+}
