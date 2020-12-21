@@ -113,7 +113,7 @@
 	export default {
 		data() {
 			return {
-				showNav: true,
+				showNav: false,
 				activePath: '',
 				menuList: [{
 						name: '首页',
@@ -218,6 +218,7 @@
 		justify-content: space-between;
 		align-items: center;
 	}
+
 	.header_logo {
 		cursor: pointer;
 	}

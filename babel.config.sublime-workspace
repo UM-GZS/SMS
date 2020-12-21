@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"re",
+				"sendResponse"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"send",
+				"sendResponse"
+			],
+			[
+				"bu",
+				"buttonSpeed"
+			],
+			[
+				"sp",
+				"selectSpeed"
+			],
+			[
+				"tab",
+				"tabId"
+			],
+			[
+				"pop",
+				"popup_body"
+			],
+			[
+				"get",
+				"getURL"
+			],
+			[
+				"defa",
+				"default_popup"
+			],
+			[
+				"icon",
+				"icon_48"
+			],
+			[
 				"c",
 				"cursor\tproperty"
 			],
@@ -100,10 +140,6 @@
 				"classInfo"
 			],
 			[
-				"send",
-				"sendFormRef"
-			],
-			[
 				"msg",
 				"msgList"
 			],
@@ -116,37 +152,46 @@
 	"buffers":
 	[
 		{
-			"file": "src/views/home/Home.vue",
+			"file": "/usr/local/iteam/umvideo/manifest.json",
 			"settings":
 			{
-				"buffer_size": 7827,
+				"buffer_size": 622,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/views/user/Teacher.vue",
+			"file": "/usr/local/iteam/umvideo/popup.html",
 			"settings":
 			{
-				"buffer_size": 153,
+				"buffer_size": 177,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/router/index.js",
+			"file": "/usr/local/iteam/umvideo/popup.js",
 			"settings":
 			{
-				"buffer_size": 1213,
+				"buffer_size": 126,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "src/views/class/Classitem.vue",
+			"file": "/usr/local/iteam/umvideo/content_scripts.js",
 			"settings":
 			{
-				"buffer_size": 3559,
+				"buffer_size": 274,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/local/iteam/umvideo/background.js",
+			"settings":
+			{
+				"buffer_size": 245,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -163,6 +208,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -192,10 +241,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"pack",
-				"Package Control: Install Package"
-			],
-			[
 				"",
 				"About"
 			]
@@ -220,29 +265,47 @@
 	},
 	"expanded_folders":
 	[
-		"/usr/local/iteam/SMS",
-		"/usr/local/iteam/SMS/src",
-		"/usr/local/iteam/SMS/src/router",
-		"/usr/local/iteam/SMS/src/views",
-		"/usr/local/iteam/SMS/src/views/class",
-		"/usr/local/iteam/SMS/src/views/home",
-		"/usr/local/iteam/SMS/src/views/user"
+		"/usr/local/iteam/umvideo"
 	],
 	"file_history":
 	[
-		"/usr/local/iteam/SMS/src/views/user/teacher.vue",
+		"/usr/local/iteam/umvideo/background.js",
+		"/usr/local/iteam/umvideo/popup.html",
+		"/usr/local/iteam/UmVideo/js/background.js",
+		"/usr/local/iteam/UmVideo/manifest.json",
+		"/usr/local/iteam/UmVideo/popup.html",
+		"/usr/local/iteam/UmVideo/popup.js",
+		"/usr/local/iteam/UmVideo/js/content-script.js",
+		"/usr/local/iteam/UmVideo/js/popup.js",
+		"/usr/local/iteam/speedVideo/manifest.json",
+		"/usr/local/iteam/UmVideo/background.html",
+		"/usr/local/iteam/UmVideo/css/popup.css",
+		"/usr/local/iteam/UmVideo/js/jquery.min.js",
+		"/root/下载/aotuP/popup.html",
+		"/root/下载/aotuP/popup.js",
+		"/usr/local/iteam/UmVideo/options.html",
+		"/root/下载/aotuP/manifest.json",
+		"/usr/local/iteam/UmVideo.pem",
+		"/usr/local/iteam/UmVideo/_locales/zh_CN/messages.json",
+		"/usr/local/iteam/UmVideo/_locales/en/messages.json",
+		"/root/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/root/下载/aotuP/ctx.js",
+		"/root/下载/aotuP/contentScript.js",
+		"/usr/local/iteam/tools.html",
+		"/usr/local/iteam/SMS/src/views/home/Home.vue",
+		"/usr/local/iteam/SMS/src/assets/css/iconfont.css",
+		"/usr/local/iteam/SMS/src/views/class/MyClass.vue",
+		"/usr/local/iteam/SMS/src/router/index.js",
 		"/usr/local/iteam/SMS/src/views/home/Welcome.vue",
 		"/usr/local/iteam/SMS/src/views/user/Login.vue",
-		"/usr/local/iteam/SMS/src/router/index.js",
+		"/usr/local/iteam/SMS/src/views/user/UserInfo.vue",
+		"/usr/local/iteam/SMS/src/views/user/Teacher.vue",
+		"/usr/local/iteam/SMS/src/views/class/Classitem.vue",
+		"/usr/local/iteam/SMS/src/views/user/teacher.vue",
 		"/usr/local/iteam/SMS/src/components/tools/hdScroll.vue",
-		"/usr/local/iteam/SMS/src/views/class/MyClass.vue",
-		"/usr/local/iteam/SMS/src/views/home/Home.vue",
 		"/usr/local/iteam/SMS/node_modules/serve-index/public/style.css",
 		"/usr/local/iteam/SMS/src/assets/img/home_item01.jpg",
-		"/usr/local/iteam/SMS/src/views/class/Classitem.vue",
-		"/usr/local/iteam/SMS/src/views/user/UserInfo.vue",
 		"/usr/local/iteam/SMS/src/assets/css/global.css",
-		"/usr/local/iteam/SMS/src/assets/css/iconfont.css",
 		"/usr/local/iteam/SMS/node_modules/babel-runtime/node_modules/core-js/client/core.js",
 		"/usr/local/iteam/SMS/README.md",
 		"/usr/local/iteam/SMS/node_modules/rxjs/_esm2015/internal/operators/window.js"
@@ -282,96 +345,88 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/views/home/Home.vue",
+					"file": "/usr/local/iteam/umvideo/manifest.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7827,
+						"buffer_size": 622,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3049,
-								3049
+								538,
+								538
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 2829.0,
+						"translation.y": 276.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "src/views/user/Teacher.vue",
+					"file": "/usr/local/iteam/umvideo/popup.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 153,
+						"buffer_size": 177,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								105,
-								105
+								88,
+								88
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "src/router/index.js",
+					"file": "/usr/local/iteam/umvideo/popup.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1213,
+						"buffer_size": 126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								643,
-								643
+								124,
+								124
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 276.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -379,31 +434,58 @@
 				},
 				{
 					"buffer": 3,
-					"file": "src/views/class/Classitem.vue",
+					"file": "/usr/local/iteam/umvideo/content_scripts.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3559,
+						"buffer_size": 274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3295,
-								3295
+								256,
+								256
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
-						"translation.x": 0.0,
-						"translation.y": 3381.0,
+						"translation.x": 4.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/usr/local/iteam/umvideo/background.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								128,
+								128
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -426,18 +508,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -478,12 +553,12 @@
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"last_filter": "",
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 905.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -492,7 +567,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 224.0,
 	"status_bar_visible": true,
 	"template_settings":
